@@ -11,7 +11,7 @@ plugins: [jekyll-feed]
 
 ###############################################################################
 # Page Personal Details
-url: http://nathaliaantunes.github.io/
+url: http://naantunes.github.io/
 baseurl: /
 author: Nathália Antunes
 title: Nathália Antunes
@@ -23,3 +23,6 @@ email: nathalia.antunes01@gmail.com
 
 # Upon Request for Phone, Skype, Hangouts, etc.
 urequest: Upon request
+
+# Social Usernames for Twitter, Github, Medium, Linkedin
+username: naantunes
